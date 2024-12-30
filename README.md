@@ -26,8 +26,8 @@ This application is an iOS project that mimics the look and feel of the native S
 ## Project Structure
 
 ```
-Assignment1/
-├── Assignment1/                # Main application code
+IOS-Settings-App/
+├── IOS-Settings-App/                # Main application code
 │   ├── AppDelegate.swift       # App lifecycle management
 │   ├── SceneDelegate.swift     # Scene lifecycle management
 │   ├── ViewController.swift    # Main view logic
@@ -36,12 +36,12 @@ Assignment1/
 │   └── Base.lproj/             # Storyboards for UI design
 │       ├── LaunchScreen.storyboard
 │       └── Main.storyboard
-├── Assignment1.xcodeproj/      # Xcode project files
+├── IOS-Settings-App.xcodeproj/      # Xcode project files
 │   ├── project.pbxproj         # Project settings
 │   ├── project.xcworkspace/    # Workspace settings
 │   └── xcshareddata/           # Shared schemes
-├── Assignment1Tests/           # Unit test files
-├── Assignment1UITests/         # UI test files
+├── IOS-Settings-AppTests/           # Unit test files
+├── IOS-Settings-AppUITests/         # UI test files
 └── README.md                   # Project documentation
 ```
 
