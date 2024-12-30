@@ -60,13 +60,13 @@ IOS-Settings-App/
    ```
 2. Open the project in Xcode:
    ```bash
-   open Assignment1/Assignment1.xcodeproj
+   open IOS-Settings-App/IOS-Settings-App.xcodeproj
    ```
 3. Build and run the app on a simulator or a connected device.
 
 ## Tests
 
-The project includes unit tests and UI tests located in the `Assignment1Tests` and `Assignment1UITests` folders. To run tests:
+The project includes unit tests and UI tests located in the `IOS-Settings-AppTests` and `IOS-Settings-AppUITests` folders. To run tests:
 
 1. Open the project in Xcode.
 2. Select `Product > Test` from the menu or use the shortcut `Cmd + U`.
