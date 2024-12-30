@@ -1,6 +1,5 @@
 # IOS-Settings-App
 Mobile Project
-# iOS Project: Assignment1
 
 ## Overview
 
